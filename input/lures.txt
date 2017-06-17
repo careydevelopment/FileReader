@@ -1,0 +1,6 @@
+Bizzy Bee;Inshore;5.99
+Mister Troller;Nearshore;7.99
+Squid Swimmer;Offshore;11.99
+Flatfish Forever;Offshore;12.99
+Little Minnow Swimmer;Inshore;5.99
+Shiny Sliver;Nearshore;8.99
